@@ -1,0 +1,7 @@
+def add(arr, let):
+	arr.append(let)
+def sum_in_arr(a, b, c):
+	try:
+		return a[b] + a[c]
+	except:
+		return 0
