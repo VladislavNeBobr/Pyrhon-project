@@ -5,3 +5,4 @@ def sum_in_arr(a, b, c):
 		return a[b] + a[c]
 	except:
 		return 0
+print("!GalCol is the best")
