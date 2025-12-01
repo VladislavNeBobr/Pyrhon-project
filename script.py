@@ -6,3 +6,4 @@ def sum_in_arr(a, b, c):
 	except:
 		return 0
 print("GalCol is the best!")
+print("1. Commit")
